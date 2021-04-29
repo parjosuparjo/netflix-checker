@@ -1,0 +1,19 @@
+{
+  "name": "netflix-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "puppeteer": "^2.1.1",
+    "chalk": "^4.1.1",
+    "twisters": "^1.1.0",
+    "readline-sync": "^1.4.10",
+    "moment": "^2.25.3"
+  }
+}
